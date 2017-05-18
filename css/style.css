@@ -1,0 +1,342 @@
+.section2 {
+  margin-top:50px;
+  margin-bottom: 50px;
+}
+.iphone {
+         position: absolute;
+    margin-top: 50px;
+}
+h1 {
+  font-size: 70px;
+}
+
+.billboard{
+    color: #fff;
+    background: #ccc url("../images/back/back.jpg") center center;
+    background-size: cover;
+    overflow: hidden;
+}
+.background {position:relative;
+overflow: hidden;
+width: 100%;
+height:
+}
+.jumbotron .container1 {z-index:2;
+ position:relative;
+  z-index:2;
+}
+.dayoh {
+  font-family: 'Lato', sans-serif;
+  color:white;
+  font-size: 35px;
+  text-shadow: 0px 2px 1px rgba(0, 0, 0, 0.75);
+  margin-top: 50px;
+}
+.description{
+color:white;
+font-size: 20px;
+ font-family: Lato;
+ text-shadow: 0px 2px 1px rgba(0, 0, 0, 0.75);
+ text-align:left;
+}
+.btn-primary {
+  border:none;
+  border-bottom: 2px solid #1470cc;
+  background-color: #5e95cd;
+}
+
+}
+.buynow {
+  background-color: #e8776b;
+  color:white;
+}
+
+.text-buynow {
+  background-color:
+  color:white;
+  font-family: Lato;
+  font-size: 24px;
+  margin-top:30px;
+}
+
+.btn-buynow {
+  color:white;
+  background-color:#e8776b;
+  border-radius: 5.6px;
+  font-family: Lato;
+  font-size: 20px;
+  border-color: white;
+  vertical-align: left;
+  width:110px;
+  margin-top:30px;
+  margin-bottom:30px;
+}
+
+.mac-with-text {
+  background-color: #5e95cd;
+  color:white;
+}
+
+.mac {
+margin:40px auto;
+}
+
+
+.signup {
+  background: #ccc url("../images/back/main-jumbo.jpg") center center;
+  background-size: cover;
+  overflow: hidden;
+}
+.signup h3 {
+  text-align: center;
+  color:white;
+  font-family: Lato;
+  font-size: 24px;
+  line-height: 1;
+  text-shadow: 0px 2px 1px rgba(0, 0, 0, 0.75);
+}
+
+.signup input {
+  border :none;
+  height: 38.2px;
+  background-color: #ffffff;
+  border-radius: 5px;
+  width:100%;
+  margin-bottom:30px;
+  margin-top:30px;
+  padding-left:10px;
+}
+
+.jumbotron-siggyvanup button {
+  margin-top:20px;
+}
+
+.button-signup {
+  margin-top:33px;
+}
+.footer {
+  background-color: #e8776b;
+  color:#ffffff;
+}
+
+.messageicon {
+  background-color: #e8776b;
+  height: 40px;
+  width :40px;
+  border: solid 2px #ffffff;
+  border-radius: 50%;
+}
+
+.inlineicon {
+  display: inline-flex;
+  margin-top:30px;
+  margin-bottom:30px;
+}
+.featuresicon1 {
+  background-color: #ffffff;
+  height: 85px;
+  width :85px;
+  border: solid 2px #eaeaea;
+  border-radius: 50%;
+  text-align: center;
+  margin : 0px auto;
+
+
+}
+.glyphicon-size {
+  color: #e8776b;
+  font-size: 42px;
+  margin-top: 15px;
+}
+
+.glyphicon-envelope{
+  font-size: 14px;
+  margin-top: 10px;
+}
+.coded-Patience {
+  margin-left: 0 auto;
+  text-align: center;
+}
+.coded-Patience h4 {
+  font-family: Lato;
+  font-size: 18px;
+  color: #333333;
+}
+.coded-Patience p {
+  width: 224px;
+   font-family: Lato;
+   font-size: 14px;
+   color: #aaaaaa;
+   margin: 0 auto;
+  }
+.jumbotron-table {
+  background-color: white;
+}
+.table-bordered {
+   border: solid 1px #e1e1e1;
+}
+.table {
+  margin: 0 auto;
+  text-align: center;
+}
+.column-width {
+  width:320px;
+  text-align: center;
+ font-family: Lato;
+ font-size: 18px;
+ line-height: 1.33;
+ color: #999999;
+}
+.success-height {
+  height: 114px;
+font-family: Lato;
+font-size: 30px;
+line-height: 0.8;
+color: #e8776b;
+}
+.font-color {
+ font-family: Lato;
+ font-size: 18px;
+ line-height: 3.11;
+ text-align: center;
+ color: #999999;
+}
+.btn-danger {
+height: 56.7px;
+background-color: #e84e3c;
+border:none;
+}
+.button-row {
+  height: 115px;
+}
+
+.btn-lg {
+    margin-bottom:50px;
+
+}
+.table-strat{
+   color: #999999;
+}
+
+.table-strat .col-md-2{
+ margin-top: 50px;
+ margin-bottom: 50px;
+ padding-left: 0 !important;
+ padding-right: 0 !important;
+ border: 1px solid #e1e1e1;
+}
+
+.no-border{
+ border: none !important;
+}
+
+.sign-up-button{
+ background-color: #e8776b;
+ align-content: center;
+  height: 60px;
+  margin: 0 auto;
+  border-radius: 5px;
+  border-bottom: 3px solid #e84e3c;
+  color: #ffffff;
+  margin-top: 20px;
+  line-height: 60px;
+  cursor: pointer;
+}
+.dark-background{
+ background-color: rgb(226,226,226);
+}
+
+.orage-background{
+ background-color: #e8776b !important;
+ color: #fff !important;
+}
+
+
+.money-money{
+ background-color: #eeeeee;
+ font-size: 30px;
+ color: #e8776b;
+ height: 100px;
+ line-height: 100px !important;
+}
+
+@media only screen and (max-width: 991px) {
+  .jumbotron-dayoh h2 {
+        margin: 40px 100px 10px 100px;
+  color : white;
+  font-family: Lato;
+    font-size: 24px;
+    text-align: center;
+  }
+
+  .jumbotron-dayoh p {
+  color : white;
+  font-family: Lato;
+    font-size: 12px;
+    line-height: 2;
+    margin: 10px 100px 10px 100px;
+    text-align: center;
+
+  }
+}
+@media only screen and (max-width: 991px) {
+  .jumbotron-signup input {
+  border :none;
+    height: 38.2px;
+    background-color: #ffffff;
+    border-radius: 5px;
+    align-content: center;
+    margin : 0 auto;
+    align :center;
+    margin-left: 165px;
+    padding :20px;
+    margin: auto;
+
+}
+#marginremove {
+	 margin-right: 0px;
+	 margin-left: 0px;
+}
+@media only screen and (max-width: 500px) {
+.description {
+ margin-left:0;
+ text-align:center;
+}
+.btn-lg {
+
+    margin-bottom:50px;
+
+}
+ .mac-with-text {
+text-align:center;
+ }
+.jumbotron-signup button {
+margin:20px auto;
+}
+.footericon {
+  margin-top:20px;  
+  margin-bottom:20px;
+}
+.table-width-phone {
+  width:100%;
+}
+.footer {
+  background-color: #e8776b;
+  color:#ffffff;
+  margin-top:-40px;
+}
+.button-signup {
+     margin-bottom: 75px;
+}
+.signup-button-center {
+  text-align:center;
+}
+
+@media only screen and (max-width: 767px) {
+      .dayoh {
+        text-align:center;
+      }
+      .btn-mobile {
+        text-align:center;
+      }
+}
